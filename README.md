@@ -19,6 +19,6 @@ Hovering over a word in the text highlights the word in the image.
 Clicking a word in the text displays the coordinates for the bounding 
 box used to highlight the word.  (This bounding box is extracted from
 the hOCR output).  The coordinates are displayed as two pairs of X-Y 
-coordinates that represent the lower right and upper left corners of 
+coordinates that represent the upper right and lower left corners of 
 the bounding box.
 
